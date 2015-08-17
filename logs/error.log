@@ -1,0 +1,60 @@
+[Wed Aug 05 18:55:24 2015] [error] [client 89.248.167.223] script '/var/www/rali-software.com/public_html/wp-login.php' not found or unable to stat
+[Wed Aug 05 18:55:24 2015] [error] [client 89.248.167.223] File does not exist: /var/www/rali-software.com/public_html/administrator
+[Wed Aug 05 18:55:25 2015] [error] [client 89.248.167.223] script '/var/www/rali-software.com/public_html/admin.php' not found or unable to stat
+[Thu Aug 06 01:27:25 2015] [error] [client 157.55.39.112] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Thu Aug 06 01:56:32 2015] [error] [client 180.76.15.142] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Thu Aug 06 06:24:05 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/fckeditor, referer: http://rali-software.com/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Thu Aug 06 06:24:11 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/admin, referer: http://rali-software.com/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Thu Aug 06 06:24:15 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/cms, referer: http://rali-software.com/cms/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Thu Aug 06 06:24:19 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/fck, referer: http://rali-software.com/fck/editor/filemanager/browser/default/connectors/test.html
+[Thu Aug 06 06:24:23 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/include, referer: http://rali-software.com/include/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Thu Aug 06 06:24:27 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/manage, referer: http://rali-software.com/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Thu Aug 06 06:24:30 2015] [error] [client 91.200.12.28] File does not exist: /var/www/rali-software.com/public_html/editor, referer: http://rali-software.com/editor/filemanager/browser/default/connectors/test.html
+[Fri Aug 07 18:53:43 2015] [error] [client 66.249.67.120] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Sat Aug 08 05:36:57 2015] [error] [client 109.248.213.213] File does not exist: /var/www/rali-software.com/public_html/message_for_oss.pdf
+[Sat Aug 08 06:49:42 2015] [error] [client 66.249.67.21] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Sat Aug 08 15:06:06 2015] [error] [client 54.173.112.69] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Sat Aug 08 15:23:58 2015] [error] [client 54.165.121.104] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Sat Aug 08 17:32:41 2015] [error] [client 111.13.102.4] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Sat Aug 08 23:33:36 2015] [error] [client 180.76.15.160] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Sun Aug 09 07:30:54 2015] [error] [client 192.99.107.33] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Mon Aug 10 06:13:00 2015] [error] [client 66.249.69.17] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Mon Aug 10 22:44:05 2015] [error] [client 109.120.189.199] File does not exist: /var/www/rali-software.com/public_html/robots.txt, referer: http://dialogsearch.com/webmasters
+[Mon Aug 10 23:55:52 2015] [error] [client 104.243.129.210] script '/var/www/rali-software.com/public_html/wp-login.php' not found or unable to stat, referer: http://www.rali-software.com/wp-login.php
+[Mon Aug 10 23:55:52 2015] [error] [client 104.243.129.210] script '/var/www/rali-software.com/public_html/wp-login.php' not found or unable to stat, referer: http://www.rali-software.com/wp-login.php
+[Tue Aug 11 05:57:30 2015] [error] [client 157.55.39.217] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Tue Aug 11 05:57:40 2015] [error] [client 157.55.39.40] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Tue Aug 11 07:32:55 2015] [error] [client 216.69.191.241] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Tue Aug 11 14:35:53 2015] [error] [client 173.252.73.112] File does not exist: /var/www/rali-software.com/public_html/img/logo.png
+[Tue Aug 11 14:35:54 2015] [error] [client 173.252.73.118] File does not exist: /var/www/rali-software.com/public_html/img/logo.png
+[Tue Aug 11 15:06:25 2015] [error] [client 173.252.73.118] File does not exist: /var/www/rali-software.com/public_html/img/logo.png
+[Tue Aug 11 15:06:25 2015] [error] [client 173.252.73.113] File does not exist: /var/www/rali-software.com/public_html/img/logo.png
+[Wed Aug 12 04:54:29 2015] [error] [client 162.243.29.145] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Wed Aug 12 04:54:29 2015] [error] [client 162.243.29.145] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Thu Aug 13 02:12:48 2015] [error] [client 109.248.213.213] File does not exist: /var/www/rali-software.com/public_html/message_for_oss.pdf
+[Thu Aug 13 05:11:09 2015] [error] [client 37.187.137.225] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Thu Aug 13 05:44:04 2015] [error] [client 192.99.107.46] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Thu Aug 13 21:32:53 2015] [error] [client 123.125.71.20] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Fri Aug 14 00:13:38 2015] [error] [client 180.76.15.33] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Mon Aug 17 17:34:08 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Mon Aug 17 17:34:09 2015] [error] [client 31.129.176.160] script '/var/www/rali-software.com/public_html/wp-login.php' not found or unable to stat
+[Mon Aug 17 17:34:10 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/wp-login
+[Mon Aug 17 17:34:11 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/wordpress
+[Mon Aug 17 17:34:12 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/wp-admin
+[Mon Aug 17 17:34:13 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/section
+[Mon Aug 17 17:34:14 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/cms
+[Mon Aug 17 17:34:15 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/site
+[Mon Aug 17 17:34:16 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/blog
+[Mon Aug 17 17:34:17 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/admin
+[Mon Aug 17 17:34:18 2015] [error] [client 31.129.176.160] File does not exist: /var/www/rali-software.com/public_html/wp
+[Mon Aug 17 17:35:26 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/robots.txt
+[Mon Aug 17 17:35:28 2015] [error] [client 109.87.209.194] script '/var/www/rali-software.com/public_html/wp-login.php' not found or unable to stat
+[Mon Aug 17 17:35:29 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/wp-login
+[Mon Aug 17 17:35:29 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/wordpress
+[Mon Aug 17 17:35:31 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/wp-admin
+[Mon Aug 17 17:35:32 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/section
+[Mon Aug 17 17:35:33 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/cms
+[Mon Aug 17 17:35:34 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/site
+[Mon Aug 17 17:35:35 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/blog
+[Mon Aug 17 17:35:35 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/admin
+[Mon Aug 17 17:35:36 2015] [error] [client 109.87.209.194] File does not exist: /var/www/rali-software.com/public_html/wp
